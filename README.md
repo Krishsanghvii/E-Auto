@@ -1,4 +1,5 @@
 **Car Brand Identification Model**
+
 **Overview**
 The Car Brand Identification Model is designed to identify the brand of a car based on an image of the car logo. The project focuses on using deep learning to classify car brands through image recognition techniques, particularly employing convolutional neural networks (CNNs) for high accuracy and efficiency.
 
