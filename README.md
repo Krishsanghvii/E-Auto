@@ -1,9 +1,11 @@
-**Car Brand Identification Model**
+---
 
-**Overview**
+# **Car Brand Identification Model**
+
+## **Overview**
 The Car Brand Identification Model is designed to identify the brand of a car based on an image of the car logo. The project focuses on using deep learning to classify car brands through image recognition techniques, particularly employing convolutional neural networks (CNNs) for high accuracy and efficiency.
 
-**Tasks**
+## **Tasks**
 This project is divided into several tasks:
 
 1. **Dataset Evaluation (Task 1)**  
@@ -24,7 +26,7 @@ This project is divided into several tasks:
 6. **Deployment Strategy (Task 6)**  
    Explore options for deploying the Car Brand Identification Model in real-world applications, both on cloud services (e.g., AWS, Google Cloud, Microsoft Azure) and through on-premises servers. This task involves identifying the best deployment strategy for scalability, accessibility, and cost-effectiveness.
 
-**Next Steps for Car Brand Identification Model (Task 4 - Next Steps)**
+## **Next Steps for Car Brand Identification Model (Task 4 - Next Steps)**
 As outlined in the **Task 4 document**, the following steps are planned to improve the car brand identification model:
 
 1. **Improve Model Accuracy**: 
@@ -84,5 +86,8 @@ To run the project:
    - Cloud or edge device deployment can be considered based on the infrastructure available.
 
 ---
-**License**
+
+## **License**
 This project is open-source and available under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+---
